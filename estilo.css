@@ -25,4 +25,7 @@ nav {
     font-weight: 400;
     color: #FFD369;
 }
-
+.titulo h1 {
+    font-size: 1.1rem;
+    font-weight: 600;
+}
